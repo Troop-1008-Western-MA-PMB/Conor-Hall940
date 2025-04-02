@@ -1,3 +1,4 @@
+With your counselor's guidance, select three different programming languages and development environments. For each sub-requirement below, do the following: Write or modify a program using the indicated programming language and development environment. The program must take input and produce output based on computations and decisions made on the input. Debug and demonstrate the program to your counselor. Explain how each program processes inputs, makes decisions based on those inputs, and provides outputs based on computations and decision making.
 
 (a) In the first language and environment, write or modify a program, debug and demonstrate, and explain as above.
 
