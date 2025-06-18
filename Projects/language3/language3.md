@@ -9,7 +9,7 @@ def calculate(num1 : Float64, num2 : Float64, operation : Char) : Float64
   when '*'
     num1 * num2
   when '/'
-    if num2 == 0
+    if num2 = 0
       raise "Division by zero"
     end
     num1 / num2
